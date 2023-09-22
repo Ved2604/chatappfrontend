@@ -9,4 +9,5 @@ const ChatsPage = (props) => {
         secret={props.user.secret}
       />
     </div>
-  )}
+  )}  
+export default ChatsPage;
